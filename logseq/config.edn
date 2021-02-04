@@ -81,4 +81,4 @@
  :macros {}
    :feature/enable-timetracking? true
    :feature/enable-journals? false
-   :default-home {}}
+   :default-home {:page "index"}}
