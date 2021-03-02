@@ -7,3 +7,4 @@ title: jmeter
 ## 不同线程组的HTTP采样器，不能共享变量
 ### 如setUp线程组的`HTTP采样器`，使用`JSON提取器`，返回变量值。 普通线程组发起请求，不能识别该变量的值
 ## 选项-日志查看，日志级别
+## 调试采样器， 线程组-new-sampler-debug sampler
