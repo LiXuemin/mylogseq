@@ -82,4 +82,5 @@
    :feature/enable-timetracking? false
    :feature/enable-journals? false
    :default-home {:page "index"}
-   :preferred-workflow :todo}
+   :preferred-workflow :todo
+   :markdown/version 2}
